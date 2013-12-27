@@ -47,6 +47,7 @@
                     </view>
                     <connections>
                         <outlet property="btn001" destination="Lhh-qo-dHL" id="8tz-yg-XON"/>
+                        <outlet property="text1" destination="izm-1p-5sx" id="IYI-Ij-X98"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
@@ -74,6 +75,7 @@
             <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
             <relationships>
                 <relationship kind="outlet" name="btn001" candidateClass="UIButton"/>
+                <relationship kind="outlet" name="text1" candidateClass="UITextField"/>
             </relationships>
         </class>
     </classes>

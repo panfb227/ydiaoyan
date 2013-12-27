@@ -12,6 +12,8 @@
 
 @property (weak, nonatomic) IBOutlet UIButton *btn001;
 
+@property (weak, nonatomic) IBOutlet UITextField *text1;
+
 @end
 
 @implementation ViewController
